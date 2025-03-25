@@ -5,3 +5,4 @@
 [2025-03-25 18:03:55] Memperbarui dependensi di aptos-core
 [2025-03-25 18:03:58] Menambahkan komentar di aptos-core
 [2025-03-25 18:04:00] Menambahkan fitur kecil di aptos-core
+[2025-03-25 18:04:03] Memperbarui dokumentasi di aptos-core
